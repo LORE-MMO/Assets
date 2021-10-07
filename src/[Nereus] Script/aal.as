@@ -2,13 +2,10 @@
 {
     import flash.display.*;
 
-    dynamic public class aal extends MovieClip
+    dynamic public class aal extends MovieClip 
     {
-
-        public function aal()
-        {
+        public function aal() {
             return;
-        }// end function
-
+        }
     }
 }
