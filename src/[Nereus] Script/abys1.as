@@ -4,11 +4,8 @@
 
     dynamic public class abys1 extends MovieClip
     {
-
-        public function abys1()
-        {
+        public function abys1() {
             return;
-        }// end function
-
+        }
     }
 }
