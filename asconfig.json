@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "source-path": ["/src/"],
+    "output": "bin/LORE-Assets.swf"
+  },
+  "mainClass": "Game",
+  "animateOptions": {
+    "file": "LORE-Assets.fla"
+  }
+}
